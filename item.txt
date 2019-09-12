@@ -150,27 +150,27 @@
 <wp:meta_key><![CDATA[_telephone_number]]></wp:meta_key>
 <wp:meta_value><![CDATA[field_56e9c363918a9]]></wp:meta_value>
 </wp:postmeta>
-		<wp:postmeta>
+<wp:postmeta>
 <wp:meta_key><![CDATA[display_featured_content]]></wp:meta_key>
 <wp:meta_value><![CDATA[1]]></wp:meta_value>
 </wp:postmeta>
-		<wp:postmeta>
+<wp:postmeta>
 <wp:meta_key><![CDATA[_display_featured_content]]></wp:meta_key>
 <wp:meta_value><![CDATA[field_583d6afbbc852]]></wp:meta_value>
 </wp:postmeta>
-		<wp:postmeta>
+<wp:postmeta>
 <wp:meta_key><![CDATA[featured_content_types_and_order]]></wp:meta_key>
 <wp:meta_value><![CDATA[a:2:{i:0;s:4:"self";i:1;s:7:"default";}]]></wp:meta_value>
 </wp:postmeta>
-		<wp:postmeta>
+<wp:postmeta>
 <wp:meta_key><![CDATA[_featured_content_types_and_order]]></wp:meta_key>
 <wp:meta_value><![CDATA[field_featured_content_types_and_order]]></wp:meta_value>
 </wp:postmeta>
-		<wp:postmeta>
+<wp:postmeta>
 <wp:meta_key><![CDATA[featured_content]]></wp:meta_key>
 <wp:meta_value><![CDATA[]]></wp:meta_value>
 </wp:postmeta>
-		<wp:postmeta>
+<wp:postmeta>
 <wp:meta_key><![CDATA[_featured_content]]></wp:meta_key>
 <wp:meta_value><![CDATA[field_583d6b42bc853]]></wp:meta_value>
 </wp:postmeta>
