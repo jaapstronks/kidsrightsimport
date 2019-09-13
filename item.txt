@@ -21,7 +21,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="person_year" nicename="{{YEAR}}"><![CDATA[{{YEAR}}]]></category>
 		<category domain="person_country" nicename="{{COUNTRY-NICE}}"><![CDATA[{{COUNTRY}}]]></category>
-		<category domain="person_topic" nicename="{{TOPIC-NICE}}"><![CDATA[TOPIC]]></category>
+		<category domain="person_topic" nicename="{{TOPIC-NICE}}"><![CDATA[{{TOPIC}}]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_yst_prominent_words_version]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
