@@ -32,7 +32,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6308]]></wp:meta_value>
+		<wp:meta_value><![CDATA[{{THUMBNAIL_ID}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
