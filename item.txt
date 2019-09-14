@@ -3,11 +3,11 @@
 		<link>https://kidsrights-foundation.bolster.cloud/persons/{{FIRSTNAME}}/</link>
 		<pubDate>Thu, 12 Sep 2019 19:22:33 +0000</pubDate>
 		<dc:creator><![CDATA[Bolster Dev]]></dc:creator>
-		<guid isPermaLink="false">https://kidsrights-foundation.bolster.cloud/?post_type=person&#038;p={{POSTID}}</guid>
+		<guid isPermaLink="false">https://kidsrights-foundation.bolster.cloud/?post_type=person&#038;p={{POSTID2}}</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>{{POSTID}}</wp:post_id>
+		<wp:post_id>{{POSTID2}}</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-12 21:22:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-12 19:22:33]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
